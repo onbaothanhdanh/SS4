@@ -1,0 +1,32 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-height: 250px;
+    background: rgb(183, 182, 182);
+    text-align: center;
+}
+
+.header {
+    height: 30px;
+    display: flex;
+    align-items: center;
+}
+
+.body {
+    background-color: #ffff;
+    width: 100%;
+}
+
+.body button {
+    background-color: blue;
+    color: #ffff;
+    margin: 10px;
+}
+
+.footer {
+    height: 30px;
+    display: flex;
+    align-items: center;
+}

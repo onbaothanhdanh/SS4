@@ -1,0 +1,18 @@
+.container {
+    text-align: justify;
+}
+
+.ex4 h1 {
+    color: blue;
+    font-family: sans-serif;
+}
+
+.ex4-css-exam {
+    background-color: rgb(175, 175, 173);
+    border-left: 12px solid yellow;
+    padding: 15px;
+}
+
+.ex4-css-exam h1, h2, h3 {
+    font-family: sans-serif;
+}
